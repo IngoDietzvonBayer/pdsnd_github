@@ -9,7 +9,7 @@ import functions as uf
 import math
 
 
-scores = [88, 92, 79, 93, 85]
+scores = [88, 92, 79, 93, 80]
 
 mean = uf.mean(scores)
 curved = uf.add_five(scores)
