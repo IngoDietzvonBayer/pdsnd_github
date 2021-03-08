@@ -51,7 +51,6 @@ def get_filters():
         else:
             number_of_Lines =300000 # set a large number so that all lines will be printed
 
-    print('-'*40)
 
     return city, month, day, number_of_Lines
 
