@@ -3,7 +3,7 @@
 Include the date you created this project and README file.
 
 ### Learning git
-Replace the Project Title
+Learning git with Udacity.
 
 ### Description
 The Project is about learning git.
